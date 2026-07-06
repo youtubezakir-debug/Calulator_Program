@@ -29,7 +29,7 @@ A simple command-line calculator built with Python. This project performs basic 
 
 3. Run the program:
    ```bash
-   python calculator.py
+   main.py
    ```
 
 ## 📚 What I Learned
