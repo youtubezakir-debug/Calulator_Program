@@ -1,50 +1,31 @@
-# 🧮 Python Calculator
+# Calculator Program
 
-A simple command-line calculator built with Python. This project performs basic arithmetic operations and was created to practice Python fundamentals, user input, conditional statements, and functions.
+A simple command-line calculator built in Python that performs basic 
+arithmetic operations — addition, subtraction, multiplication, and division.
 
-## ✨ Features
+## Why I Built This
+This was one of my first projects while learning Python. I wanted to move 
+beyond just reading syntax and actually apply core programming logic — 
+taking user input, handling different operations, and dealing with edge 
+cases like division by zero.
 
-- ➕ Addition
-- ➖ Subtraction
-- ✖️ Multiplication
-- ➗ Division
-- 🖥️ Easy-to-use command-line interface
-- ⚡ Fast and lightweight
+## What It Does
+- Takes two numbers as input from the user
+- Lets the user choose an operation (+, -, *, /)
+- Handles invalid input and division-by-zero errors
+- Displays the result
 
-## 🛠️ Technologies Used
+## What I Learned
+- Working with user input and type conversion in Python
+- Using conditional logic (if/elif/else) to handle different operations
+- Basic error handling to prevent the program from crashing
+- Writing clean, readable code structure
 
-- Python 3
+## How to Run
+​```bash
+python calculator.py
+​```
 
-## 🚀 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone <repository-url>
-   ```
-
-2. Navigate to the project folder:
-   ```bash
-   cd Python-Calculator
-   ```
-
-3. Run the program:
-   ```bash
-   main.py
-   ```
-
-## 📚 What I Learned
-
-Through this project, I practiced:
-
-- Taking user input
-- Working with variables
-- Using conditional statements (`if`, `elif`, `else`)
-- Creating and calling functions
-- Handling basic arithmetic operations
-- Writing clean and organized Python code
-
-## 👨‍💻 Author
-
-**Zakir Hussain**
-
-Learning Python and building projects to strengthen my programming skills.
+## Next Steps
+I plan to expand this into a scientific calculator with more operations 
+(power, square root, percentage) as I learn more Python.
